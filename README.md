@@ -20,6 +20,8 @@
 •
 [Dokument](#open_file_folder-Dokument)
 •
+[Visualisasi Data Scraping](#bar_chart-visualisasi-data-scraping)
+•
 [PPT](#computer-PPT)
 •
 [Pengembang](#man_technologist-pengembang)
@@ -66,6 +68,9 @@ Berikut adalah salah satu contoh dokument di mongoDB pada jora.com
 "deskripsi":"Minimum 1 year experience in administrative field Good written and communication in English Proficiency in computer and MS....",
 "waktu_posting":"Sekitar 1 hari yang lalu"}
 ```
+## :bar_chart: Visualisasi Data Scraping
+Berikut merupakan link data visualisasi dari hasil jora : [RPubs Visualisasi Scrapping Jora](https://rpubs.com/monicarahma07/Visualisasi-Hasil-Scrapping)
+
 ## :computer: PPT
 Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat : (https://github.com/monicarahma/scrape_jora/blob/main/PPT%20Scraping%20Jora%20Indonesia.pdf)
 
