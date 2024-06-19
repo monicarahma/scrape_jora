@@ -16,11 +16,9 @@
 
 [About Jora](#pen-About-Jora)
 •
-[Deskripsi Project](#writing_What_is_Scraped )
+[Deskripsi Project](#writing-What-is-Scraped )
 •
-[Dokumen](#open_file_folder-Dokument)
-•
-[Visualisasi Data Scraping](#bar_chart-visualisasi-data-scraping)
+[Dokument](#open_file_folder-Dokument)
 •
 [PPT](#computer-PPT)
 •
