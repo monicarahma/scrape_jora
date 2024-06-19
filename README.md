@@ -16,7 +16,7 @@
 
 [About Jora](#pen-About-Jora)
 •
-[Deskripsi Project](#writing-What-is-Scraped )
+[What is Scraped](#writing-What-is-Scraped)
 •
 [Dokument](#open_file_folder-Dokument)
 •
