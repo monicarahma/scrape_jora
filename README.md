@@ -16,7 +16,7 @@
 
 [About Jora](#pen-About-Jora)
 •
-[Deskripsi Project](#writing_hand-project )
+[Deskripsi Project](#writing_What_is_Scraped )
 •
 [Dokumen](#open_file_folder-Dokument)
 •
