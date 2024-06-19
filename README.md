@@ -1,4 +1,4 @@
-
+![image](https://github.com/monicarahma/scrape_jora/assets/97344135/0c23a859-6811-4e4a-b267-202a07282417)
 <div align="center">
 <h1>Scraping Job Listings from Jora Indonesia</h1>
 
@@ -37,7 +37,11 @@ Jora is a global job search engine that is available in several countries. It of
 + **User-Friendly Interface:**  The website has a clean and intuitive design, which makes it easy for users to search for and apply to jobs.
 + **Updated Listings:** Jora continuously updates its job listings, ensuring that users have access to the most recent job opportunities.
 + **Free to Use:** Jora is free for job seekers, providing a valuable resource without any cost.
-
+<p align="center" width="100%">
+    <img width="48%" src=https://techovedas.com/wp-content/uploads/2023/08/cq5dam.web_.1280.1280.png>
+ <img width="48%" src=https://cdn-image.hipwee.com/wp-content/uploads/2021/02/hipwee-cytonn-photography-ZJEKICY5EXY-unsplash.jpg>
+    <img width="60%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSliyQOL7nlySKBUtHtA7BQmF_Z34B-zcJM-n_drlGq59L2fJY6u7vpiEnBEB1ZCIqFKQo&usqp=CAU">
+</p>
 </p>
 
 ## :writing_hand: What is Scraped
