@@ -1,4 +1,4 @@
-![image](https://github.com/monicarahma/scrape_jora/assets/97344135/1eaa8090-36a3-4567-a012-ebcfe4f80850)
+
 <div align="center">
 <h1>Scraping Job Listings from Jora Indonesia</h1>
 
