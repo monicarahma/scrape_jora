@@ -56,16 +56,13 @@ In this project, we scrape the following data from Jora Indonesia's job listings
 ## :open_file_folder: Dokument
 Berikut adalah salah satu contoh dokument di mongoDB dalam analisis harga cryptocurrency pada bitcoin
 ```mongodb
-{"_id":{"$oid":"665373fac84edcd0f406e7a1"},
-"time":{"$date":{"$numberLong":"1716745207690"}},
-"name":"BitcoinBTC",
-"price":{"$numberDouble":"68830.65"},
-"change_1h":{"$numberDouble":"0.13"},
-"change_24h":{"$numberDouble":"0.23"},
-"change_7d":{"$numberDouble":"3.05"},
-"market_cap":{"$numberDouble":"1.361355918"},
-"volume_24h":{"$numberDouble":"14661305630213056.0"},
-"circulating_supply":{"$numberDouble":"19703909.0"}}
+{"_id":{"$oid":"66584b33d870160ac4006701"},
+"time_scraped":{"$date":{"$numberLong":"1717062448267"}},
+"posisi":"Administrative Assistants (Administration & Marketing Support)Administrative Assistants (Administration & Marketing Support)",
+"perusahaan":"Reine des Mers Training Center",
+"lokasi":"Brontokusuman, Yogyakarta",
+"deskripsi":"Minimum 1 year experience in administrative field Good written and communication in English Proficiency in computer and MS....",
+"waktu_posting":"Sekitar 1 hari yang lalu"}
 ```
 ## :computer: PPT
 Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat :
