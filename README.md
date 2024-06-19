@@ -5,7 +5,7 @@
 <p>This project focuses on scraping job listings from the Jora Indonesia website.</p>
 
 <p align="center" width="100%">
-    <img width="75%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQacxGoViXi7vkyVI6xrTMJv_rN4U8ocelIO9pe-E1PR8Q4Vk6CF2p8VgES0tebGQIliT4&usqp=CAU">
+    <img width="75%" src="https://www.ratojob.com/wp-content/uploads/2019/04/best-online-job-portals-of-australia-linkedin.jpg">
 </p>
 
   
