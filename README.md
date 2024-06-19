@@ -67,7 +67,7 @@ Berikut adalah salah satu contoh dokument di mongoDB dalam analisis harga crypto
 "waktu_posting":"Sekitar 1 hari yang lalu"}
 ```
 ## :computer: PPT
-Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat : (https://github.com/monicarahma/scrape_jora/blob/main/PPT%20Scraping%20Jora%20Indonesia.pptx)
+Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat : (https://github.com/monicarahma/scrape_jora/blob/main/PPT%20Scraping%20Jora%20Indonesia.pdf)
 
 ## :man_technologist: Pengembang
 [monica rahma fauzia](https://github.com/monicarahma/) (G1501231057)
