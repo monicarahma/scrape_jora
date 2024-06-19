@@ -56,7 +56,7 @@ In this project, we scrape the following data from Jora Indonesia's job listings
  </p> 
  
 ## :open_file_folder: Dokument
-Berikut adalah salah satu contoh dokument di mongoDB dalam analisis harga cryptocurrency pada bitcoin
+Berikut adalah salah satu contoh dokument di mongoDB pada jora.com
 ```mongodb
 {"_id":{"$oid":"66584b33d870160ac4006701"},
 "time_scraped":{"$date":{"$numberLong":"1717062448267"}},
